@@ -9,3 +9,7 @@ Output : "polybius square"
 
 - solution("12")   |
 Output : "b"
+
+
+
+stupidest code i ever written.
